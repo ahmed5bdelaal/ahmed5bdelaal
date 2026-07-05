@@ -15,6 +15,12 @@
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed5bdelaal/ahmed5bdelaal/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+---
 
 # 💫 About Me
 
